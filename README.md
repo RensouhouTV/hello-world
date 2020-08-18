@@ -1,4 +1,4 @@
 # hello-world
 Test Repository
 
-Watch Vtubers. Especially Hololive an Nijisanji.
+Watch Vtubers. Especially Hololive and Nijisanji.
